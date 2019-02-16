@@ -1,0 +1,19 @@
+body h1,h2,h3,h4,h5,h6{
+    color: #000!important;
+}
+.bg-secondary{
+    background-color: #ff8a00!important;
+}
+.bg-primary{
+    background-color: #ffffff!important;
+}
+.video-tv{
+	box-shadow: -2px 5px 20px #000;
+	border-radius: 25px;
+	border:10px solid #ff8a00;
+    width: 350px;
+    height: 250px;
+}
+#mainNav .navbar-nav li.nav-item a.nav-link:hover{
+    color: #000;    
+}
